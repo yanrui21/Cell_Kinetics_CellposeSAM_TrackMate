@@ -446,6 +446,17 @@ Run the script.
 
 ## Suggested citation / acknowledgment
 
+Citation:
+```bash
+@article{Yan2025ForegutSplitting,
+  author  = {Yan, Rui and Helms, Jared and Li, Pulin and Tabin, Clifford J.},
+  title   = {Pitx2 modulates Fgf10 dosage to initiate asymmetric lung morphogenesis},
+  journal = {bioRxiv},
+  year    = {2026},
+  doi     = {10.64898/2026.06.16.732783},
+  url     = {https://www.biorxiv.org/content/10.64898/2026.06.16.732783v1}
+}
+
 If you use this workflow, please cite or acknowledge the relevant software tools:
 
 * Cellpose / Cellpose-SAM for cell segmentation
