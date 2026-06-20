@@ -448,7 +448,7 @@ Run the script.
 
 Citation:
 ```bash
-@article{Yan2025ForegutSplitting,
+@article{Yan2026LungAsymmetry,
   author  = {Yan, Rui and Helms, Jared and Li, Pulin and Tabin, Clifford J.},
   title   = {Pitx2 modulates Fgf10 dosage to initiate asymmetric lung morphogenesis},
   journal = {bioRxiv},
